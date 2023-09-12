@@ -24,7 +24,7 @@
 }
 
 .back-hair-right {
-    background-color:rgb(29, 27, 27);
+    background-color:rgb(18, 17, 17);
     height:145px;
     width:159px;
     border-radius:50px;
@@ -36,7 +36,7 @@
 }
 
 .back-hair-left {
-    background-color:rgb(29, 27, 27);
+    background-color:rgb(18, 17, 17);
     height:145px;
     width:159px;
     border-radius:50px;
@@ -230,6 +230,150 @@
     border-radius: 3px;    
     z-index:9;
     position:absolute;
-    top:525px;
-    left:705px;
+    top:527px;
+    left:707px;
+    transition: background-color 0.2s;
 }
+.cube-one:hover {
+    background-color: rgb(237, 53, 53);
+}
+
+.cube-two {
+    background-color: rgb(217, 217, 217);
+    height: 12px;
+    width: 12px;
+    border-radius: 3px;    
+    z-index:9;
+    position:absolute;
+    top:527px;
+    left:723px;
+    transition: background-color 0.2s;
+}
+.cube-two:hover {
+    background-color: rgb(76, 108, 224);
+    
+}
+
+.cube-three {
+    background-color: rgb(217, 217, 217);
+    height: 12px;
+    width: 12px;
+    border-radius: 3px;    
+    z-index:9;
+    position:absolute;
+    top:527px;
+    left:739px;
+    transition: background-color 0.2s;
+}
+.cube-three:hover {
+    background-color: rgb(229, 232, 83);
+
+}
+
+.cube-four {
+    background-color: rgb(217, 217, 217);
+    height: 12px;
+    width: 12px;
+    border-radius: 3px;    
+    z-index:9;
+    position:absolute;
+    top:543px;
+    left:707px;
+    transition: background-color 0.2s;
+}
+.cube-four:hover {
+    background-color: rgb(237, 53, 53);
+
+}
+
+.cube-five {
+    background-color: rgb(217, 217, 217);
+    height: 12px;
+    width: 12px;
+    border-radius: 3px;    
+    z-index:9;
+    position:absolute;
+    top:543px;
+    left:723px;
+    transition: background-color 0.2s;
+}
+.cube-five:hover {
+    background-color: rgb(229, 232, 83);
+
+}
+.cube-six {
+    background-color: rgb(217, 217, 217);
+    height: 12px;
+    width: 12px;
+    border-radius: 3px;    
+    z-index:9;
+    position:absolute;
+    top:543px;
+    left:739px;
+    transition: background-color 0.2s;
+}
+.cube-six:hover {
+    background-color: rgb(98, 183, 97);
+
+}
+
+.cube-seven {
+    background-color: rgb(217, 217, 217);
+    height: 12px;
+    width: 12px;
+    border-radius: 3px;    
+    z-index:9;
+    position:absolute;
+    top:559px;
+    left:707px;
+    transition: background-color 0.2s;
+}
+.cube-seven:hover {
+    background-color: rgb(76, 108, 224);
+
+}
+
+.cube-eight {
+    background-color: rgb(217, 217, 217);
+    height: 12px;
+    width: 12px;
+    border-radius: 3px;    
+    z-index:9;
+    position:absolute;
+    top:559px;
+    left:723px;
+    transition: background-color 0.2s;
+}
+.cube-eight:hover {
+    background-color: rgb(98, 183, 97);
+
+}
+
+.cube-nine {
+    background-color: rgb(217, 217, 217);
+    height: 12px;
+    width: 12px;
+    border-radius: 3px;    
+    z-index:9;
+    position:absolute;
+    top:559px;
+    left:739px;
+    transition: background-color 0.2s;
+}
+.cube-nine:hover {
+    background-color: rgb(239, 134, 38);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
